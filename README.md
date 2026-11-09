@@ -3,6 +3,9 @@
 
 _by **Group 14**_
 
+> **Team project** for CSE 540 (Engineering Blockchain Applications) at Arizona State University, forked from the team repo [Jem1D/DriveID](https://github.com/Jem1D/DriveID).
+>
+> **My role (Saurin Prajapati):** backend, docs and QA: smart contract implementation support, deploy scripts, system testing and UAT, repository documentation and release notes. Full team credits are in the [Team](#team-group-14) section.
 
 ## Project Overview
 DriveID is a decentralized platform based on a smart contract system that enables managing **car identity, ownership, and access** through blockchain technology.
